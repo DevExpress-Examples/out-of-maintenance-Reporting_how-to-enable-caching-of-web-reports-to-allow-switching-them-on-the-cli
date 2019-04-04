@@ -3,7 +3,7 @@
 
 * [XtraReport1.cs](./CS/WebSite/App_Code/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/WebSite/App_Code/XtraReport1.vb))
 * [XtraReport2.cs](./CS/WebSite/App_Code/XtraReport2.cs) (VB: [XtraReport2.vb](./VB/WebSite/App_Code/XtraReport2.vb))
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to enable caching of web reports to allow switching them on the client
